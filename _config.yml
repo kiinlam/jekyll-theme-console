@@ -2,9 +2,10 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - issue.md
+  - about.md
 
 footer: 'View on <a href="https://github.com/kiinlam/vue-examples">Github</a>'
 
