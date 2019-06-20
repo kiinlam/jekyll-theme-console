@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "vue-konva-dynamic-add-component"
+title:  "vue-konva 组件的动态添加"
 date:   2019-06-18
 categories:
 ---
