@@ -77,7 +77,7 @@ textarea { vertical-align: top; }
 /**
  * Code and syntax highlighting
  */
-pre { background-color: $background-color;  border: none;  padding: 0px;  overflow:auto;  font-size: $base-font-size;  color: rgba(255,255,255,0.65);  line-height: 1.7 !important; }
+pre { background-color: $background-color; border: 5px solid rgba(0, 0, 0, 0.07); border-radius: 5px;  padding: 10px;  overflow:auto;  font-size: $base-font-size;  line-height: 1.7 !important; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
@@ -137,3 +137,9 @@ pre { background-color: $background-color;  border: none;  padding: 0px;  overfl
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+blockquote {
+  margin-left: 0;
+  padding-left: 20px;
+  border-left: 5px solid #ededed;
+}

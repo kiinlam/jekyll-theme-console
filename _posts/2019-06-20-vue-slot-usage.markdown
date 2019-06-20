@@ -195,6 +195,8 @@ JSX 中 slot 的混合用法，具备编程能力的方式。
 
 [JSX 说明文档](https://github.com/vuejs/jsx)
 
+[JSX 转换说明](https://github.com/vuejs/babel-plugin-transform-vue-jsx)
+
 JSX 写法不支持 for 、 if 语句。
 
 使用数组的 `map` 方法替代 for 语句，或将 for 语句写在立即执行函数中。
