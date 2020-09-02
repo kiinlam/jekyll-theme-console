@@ -248,6 +248,3 @@ Vue.component("TextComponent", {
 
 
 
-**[完整示例](https://codesandbox.io/s/vue-template-ydi3s?fontsize=14)**
-
-<iframe src="https://codesandbox.io/embed/vue-template-ydi3s?fontsize=14" title="Vue Slot" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
